@@ -6,6 +6,7 @@ In our EDA we are answering questions like:
 2. How many coupons are used for different discount types (10%, 20%, 30%).
 3. How the average price performs for each month (max, min, mean and outliers.)
 4. Which product is prefered from males/females.
+5. How top 3 products of the shop perform for each month.
 
 **Discover more:** [here](https://grigoriaangelou.github.io/........) <br>
 **Code:** [Sales analysis - Cleaning the dataset.ipynb](https://github.com/GrigoriaAngelou/Sales-Analysis-Amazon-Products-year-2019/blob/main/Sales%20analysis%20-%20Cleaning%20the%20dataset.ipynb), 
