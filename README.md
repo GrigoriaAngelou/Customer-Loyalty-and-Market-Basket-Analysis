@@ -1,4 +1,4 @@
-# Online Shopping Analysis for 2019
+# Customer Loyalty and Market Basket Analysis
 
 The dataset that is used in this project is from https://www.kaggle.com/datasets and it has many information about customers transactions in an online shop.
 In our EDA we are answering questions like:
